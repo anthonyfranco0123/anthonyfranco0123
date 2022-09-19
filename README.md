@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthonyfranco0123
 - 👀 I’m interested in all things coding!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 📫 How to reach me www.linkedin.com/in/anthonyfranco0123
 
 <!---
